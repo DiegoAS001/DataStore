@@ -56,8 +56,8 @@ dependencies {
 
     implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4")
 
-    implementation("org.jetbrains.kotlin:kotlin-coroutines-core:1.7.1")
-    implementation("org.jetbrains.kotlin:kotlin-coroutines-android:1.7.1")
+    //implementation("org.jetbrains.kotlin:kotlin-coroutines-core:1.7.1")
+    //implementation("org.jetbrains.kotlin:kotlin-coroutines-android:1.7.1")
 
 
 }
